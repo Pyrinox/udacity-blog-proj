@@ -1,0 +1,12 @@
+
+
+
+
+
+imports:
+- path: /index.html
+- name: index
+
+resources:
+- name: main-page
+  type: index.html
